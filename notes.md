@@ -1,3 +1,3 @@
 # Notes
 
-This repository is a test enviroment for dsh-superagent.
+This repository is a test environment for dsh-superagent.
